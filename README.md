@@ -4,9 +4,11 @@
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-1.0+-F7931E?logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-**Research Project | MSc Artificial Intelligence**  
+**Research Project | BSc Computer Science**  
 M
-![Pneumonia Classification Pipeline](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAUDBAQEAwUEBAQFBQUGBwwIBwcH...anchester Metropolitan University | First Class (85/100)
+![Pneumonia Classification Pipeline]
+
+(data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAUDBAQEAwUEBAQFBQUGBwwIBwcH...anchester Metropolitan University | First Class (85/100)
 
 
 ---
