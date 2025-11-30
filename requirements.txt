@@ -1,0 +1,19 @@
+# Python Dependencies for Pneumonia Classification Ensemble ML
+# Compatible with Python 3.8+
+
+# Core Data Science Libraries
+pandas>=1.5.3
+numpy>=1.24.2
+
+# Machine Learning
+scikit-learn>=1.2.2
+xgboost>=1.7.5
+imbalanced-learn>=0.10.1
+
+# Visualization
+matplotlib>=3.7.1
+seaborn>=0.12.2
+
+# Jupyter Notebook (optional - for running locally)
+jupyter>=1.0.0
+ipykernel>=6.22.0
