@@ -23,6 +23,9 @@ A **comparative machine learning study** for pneumonia risk classification using
 
 ---
 
+<img width="2752" height="1536" alt="Gemini_Generated_Image_nfr8bunfr8bunfr8" src="https://github.com/user-attachments/assets/693d5a71-9fb0-40d4-8728-46cf274d0c08" />
+
+---
 ## 🔬 Research Context
 
 Developed for **1CWK100 AI Principles** coursework, this project addresses:
